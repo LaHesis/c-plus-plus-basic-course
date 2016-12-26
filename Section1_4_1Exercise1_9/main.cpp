@@ -1,0 +1,1 @@
+#include <iostream>#include <iomanip>#include <stdlib.h>using namespace std;int main() {    setlocale(LC_ALL, "");    cout << "”пражение 1.9 раздела 1.4.1" << endl;    int i, sum;    sum = 50;    i = 51;    while (i<101)    {        cout << endl;        cout << "sum = " << sum;        sum += i;        ++i;    }    cout << "TOTAL SUM = " << sum;    return 0;}

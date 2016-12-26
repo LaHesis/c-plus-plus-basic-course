@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1457326508 source:e:\!apf!\_c++ basic course\section3_4_2exercise3_24\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<stdlib.h>
+

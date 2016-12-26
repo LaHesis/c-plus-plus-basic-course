@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1455382704 source:e:\!apf!\1studying\c++ basic course\section2_6_2exercise2_41\section1_5_1exercise1_21\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1455477713 source:e:\!apf!\1studying\c++ basic course\section2_6_3exrecise2_42\section1_5_1exercise1_21 (section2_6_3exrecise2_42)\main.cpp
+	<iostream>
+	<stdlib.h>
+	"../Sales_data.h"
+
+1455477752 e:\!apf!\1studying\c++ basic course\section2_6_3exrecise2_42\sales_data.h
+	<string>
+

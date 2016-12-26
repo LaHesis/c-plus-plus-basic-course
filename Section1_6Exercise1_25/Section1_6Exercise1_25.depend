@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1455379117 source:e:\!apf!\1studying\c++ basic course\section1_6exercise1_25\main.cpp
+	<iostream>
+	"../Sales_item.h"
+
+1344504422 e:\!apf!\1studying\c++ basic course\sales_item.h
+	<iostream>
+	<string>
+
